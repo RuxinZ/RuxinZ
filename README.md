@@ -8,9 +8,9 @@
 
 
 - 🌱  I’m currently learning **React, Redux, Tailwind CSS, MongoDB**. 
-- 🔭  I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
+- :star:  I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas:  When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:. 
-- :email: You can reach me at carolynzrx@gmail.com.
+- :mailbox: You can reach me at carolynzrx@gmail.com.
 
 <br>
 
