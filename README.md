@@ -1,21 +1,21 @@
-## Hi 👋, I'm Carolyn.
-<h3 align="left">I'm learning to become a web developer ✨</h3>
+## Hi, I'm Carolyn <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+I'm learning to become a full stack web developer ✨
 <img src="https://user-images.githubusercontent.com/26369040/225456947-cf3a081a-83ef-4c95-b849-32b82a80b1aa.gif" width="400">
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
-</p>
+
+<img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
+
 
 
 - 🌱  I’m currently learning **React, Redux, Tailwind CSS, MongoDB**. 
 - 🔭  I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas:  When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:. 
-- 📫  You can reach me at carolynzrx@gmail.com.
+- :email: You can reach me at carolynzrx@gmail.com.
 
 <br>
 
 ## ⛏ Technologies & Tools
 
-
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -33,18 +33,8 @@
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruxinz&layout=compact&theme=tokyonight" />
 </p>
 
-<!--
-**RuxinZ/RuxinZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:mailbox: Reach me out!
 
-Here are some ideas to get you started:
+[![Linkedin Badge](https://img.shields.io/badge/-Ruxin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruxinzhengeducation/) [![Instagrem](https://img.shields.io/badge/-@ruxin.zzzzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ruxin.zzzzz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
