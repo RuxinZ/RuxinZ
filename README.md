@@ -1,4 +1,4 @@
-## Hi, I'm Carolyn <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
+## Hi, I'm Ruxin. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 **I'm learning to become a full stack web developer ✨**<br>
 
 <img src="https://user-images.githubusercontent.com/26369040/225456947-cf3a081a-83ef-4c95-b849-32b82a80b1aa.gif" width="320">
