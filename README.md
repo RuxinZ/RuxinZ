@@ -7,7 +7,7 @@
 
 
 
-- 🌱  I’m currently learning **React, Redux, Tailwind CSS, MongoDB**. 
+- 🌱  I’m currently learning **React and Redux**. 
 - :star:  I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas:  When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:. 
 - :mailbox: You can reach me at carolynzrx@gmail.com.
@@ -16,12 +16,11 @@
 
 ## ⛏ Technologies & Tools
 
-![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/RuxinZ/JavaScript30)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](#)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -39,3 +38,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Ruxin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruxinzhengeducation/) [![Instagrem](https://img.shields.io/badge/-@ruxin.zzzzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ruxin.zzzzz)
 
 
+<!-- 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+ -->
