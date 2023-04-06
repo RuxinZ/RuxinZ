@@ -20,7 +20,6 @@
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/RuxinZ/JavaScript30)
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
 [![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white)](#)
-
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](#)
@@ -28,12 +27,12 @@
 
 <br>
 
-## 📊 Github Stats
+<!-- ## 📊 Github Stats
 
 <p>
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ruxinz&show_icons=true&theme=tokyonight&hide=contribs,prs" />
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruxinz&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 :mailbox: Reach me out!
 
