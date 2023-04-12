@@ -7,10 +7,9 @@
 
 
 
-- 🌱  I’m currently learning **React**, **Redux**, **Node.js** and **Express**. 
+- 🌱  I’m currently learning **SQL** and **NoSQL**. 
 - :star:  I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas:  When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:. 
-- :mailbox: You can reach me at carolynzrx@gmail.com.
 
 <br>
 
@@ -48,7 +47,7 @@ Tools<br>
   <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruxinz&layout=compact&theme=tokyonight" />
 </p> -->
 
-:mailbox: Reach me out!
+## :mailbox: Get in touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-Ruxin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruxinzhengeducation/) [![Instagrem](https://img.shields.io/badge/-@ruxin.zzzzz-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/ruxin.zzzzz)
 
