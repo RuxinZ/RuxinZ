@@ -15,15 +15,15 @@
 Frontend <br>
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-[![Redux](https://img.shields.io/badge/redux-%2320232a.svg?style=for-the-badge&logo=redux&logoColor=%23764abc)](#)
-[![HTML5](https://img.shields.io/badge/html5-%2320232a.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
-[![CSS3](https://img.shields.io/badge/css3-%2320232a.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
+[![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
 
 Backend <br>
 
-[![Node.js](https://img.shields.io/badge/node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=%233C873A)](#)
-[![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%233C873A)](#)
-[![postgreSQL](https://img.shields.io/badge/postgresql-%2320232a.svg?style=for-the-badge&logo=postgresql&logoColor=%231572B6)](#)
+[![Node.js](https://img.shields.io/badge/node.js-%233C873A.svg?style=for-the-badge&logo=node.js&logoColor=white)](#)
+[![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
+[![postgreSQL](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/mongoDB-%2320232a.svg?style=for-the-badge&logo=mongoDB&logoColor=%233C873A)](#)
 
 Languages <br>
