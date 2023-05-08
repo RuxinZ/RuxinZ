@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
-- 🔭 I’m currently learning **Svelte**, a compiler for creating reactive web apps and interfaces.
+- 🔭 I’m currently learning **TypeScript** and **Svelte**.
 - 🌱 I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas: When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
 
