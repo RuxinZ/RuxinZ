@@ -6,7 +6,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
-- 🔭 I’m currently learning **TypeScript** and **Svelte**.
+- 🔭 I’m currently learning **Svelte**.
 - 🌱 I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas: When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
 
@@ -33,6 +33,7 @@
 
 [![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/RuxinZ/JavaScript30)
 [![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)](#)
+[![Typescript](https://img.shields.io/badge/TypeScript-%23E34F26?style=for-the-badge&logo=Typescript&logoColor=white)](https://github.com/RuxinZ/TypeScript30)
 
 ### Tools<br>
 
