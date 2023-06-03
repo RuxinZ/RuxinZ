@@ -14,39 +14,23 @@
 
 ## ⛏ Technologies & Tools
 
-### Frontend
-
-[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](#)
-[![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://github.com/RuxinZ/HTML-CSS-practice/blob/main/README.md)
-[![Svelte](https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white)](#)
-
-### Backend
-
-[![Node.js](https://img.shields.io/badge/node.js-%233C873A.svg?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)](#)
-
-### Database
-
-[![postgreSQL](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/mongoDB-%2320232a.svg?style=for-the-badge&logo=mongoDB&logoColor=%233C873A)](#)
-
-### Testing
-
-[![Jest](https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white)](#)
-[![Vitest](https://img.shields.io/badge/vitest-%236da13f.svg?style=for-the-badge&logo=vitest&logoColor=white)](#)
-
-### Languages
-
-[![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://github.com/RuxinZ/JavaScript30)
-[![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Typescript](https://img.shields.io/badge/TypeScript-%23E34F26?style=for-the-badge&logo=Typescript&logoColor=white)](https://github.com/RuxinZ/TypeScript30)
-
-### Tools
-
-[![Git](https://img.shields.io/badge/GIT-%23E34F26?style=for-the-badge&logo=git&logoColor=white)](#)
-[![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](#)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-%23E34F26?style=for-the-badge&logo=Typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23764abc.svg?style=for-the-badge&logo=redux&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23E34F26.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-%233C873A.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![postgreSQL](https://img.shields.io/badge/postgresql-%231572B6.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongoDB-%2320232a.svg?style=for-the-badge&logo=mongoDB&logoColor=%233C873A)
+![Jest](https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/vitest-%236da13f.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%2320232a.svg?style=for-the-badge&logo=Playwright&logoColor=%2345ba4b)
+![Git](https://img.shields.io/badge/GIT-%23E34F26?style=for-the-badge&logo=git&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!-- ## 📊 Github Stats
   <p>
