@@ -7,7 +7,6 @@
 <img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
 
 - 🔭 I’m currently working on **[Svelvet](https://github.com/open-source-labs/Svelvet)**, a Svelte component library for building interative node-based UIs and diagrams.
-- 🌱 I work on **Leetcode** challenges on a daily basis. Check out my progess <a href="https://leetcode.com/ruxinzzz/" target="_blank">here</a>.
 - :earth_americas: When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
 
 <br>
@@ -29,15 +28,14 @@
 ![Jest](https://img.shields.io/badge/Jest-%23E34F26.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/vitest-%236da13f.svg?style=for-the-badge&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-%2320232a.svg?style=for-the-badge&logo=Playwright&logoColor=%2345ba4b)
+![NPM](https://img.shields.io/badge/NPM-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-%23E34F26?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%231572B6.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 <!-- ## 📊 Github Stats
   <p>
     <img height="140px" src="https://github-readme-stats.vercel.app/api?username=ruxinz&show_icons=true&theme=tokyonight&hide=contribs,prs" />
     <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruxinz&layout=compact&theme=tokyonight" />
-  </p>
- -->
+  </p> -->
 
 ## :mailbox: Get in touch
 
