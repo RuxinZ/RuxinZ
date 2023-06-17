@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Ruxin. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 </h1>
-<h3 align="center"><strong>I'm a full-stack web developer </strong>✨ </h3>
+<h3 align="center"><strong>I'm a full-stack web developer </strong></h3>
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> 
@@ -65,8 +65,8 @@
 
 </div>
 
-- 🔭 I’m currently working on an open source project called **[Svelvet](https://github.com/open-source-labs/Svelvet)**. It's a Svelte component library for building interative node-based UIs and diagrams. Checkout our **[website](https://www.svelvet.io/)** and **[NPM download instructions](https://www.npmjs.com/package/svelvet)** .
-- :earth_americas: When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
+- :seedling: &nbsp;&nbsp;I’m currently working on an open source project called **[Svelvet](https://github.com/open-source-labs/Svelvet)**. It's a Svelte component library for building interative node-based UIs and diagrams. Checkout our **[website](https://www.svelvet.io/)** and **[NPM download instructions](https://www.npmjs.com/package/svelvet)** .
+- :earth_americas: &nbsp;&nbsp;When I'm not coding, I enjoy hiking :mountain:, wildlife photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
 
 ## ⛏ My Toolsets:
 
