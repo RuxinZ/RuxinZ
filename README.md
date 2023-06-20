@@ -71,7 +71,7 @@
 ## ⛏ My Toolsets:
 
 - Languages: TypeScript, JavaScript, Python
-- Front-End: React.js, svelte
+- Front-End: React.js, Svelte
 - Back-End: Node.js, Express
 - APIs: RESTFul APIs
 - Databases: PostgreSQL, MongoDB
