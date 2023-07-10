@@ -73,7 +73,7 @@
 - Languages: TypeScript, JavaScript, Python
 - Front-End: React.js, Redux, Svelte
 - Back-End: Node.js, Express.js
-- APIs: RESTful APIs
+- APIs: REST APIs
 - Databases: PostgreSQL, MongoDB
 - CSS: Vanilla, Sass, Bootstrap
 - Testing: Jest, Vitest, Playwright
