@@ -71,14 +71,13 @@
 ## ⛏ My Toolsets:
 
 - Languages: TypeScript, JavaScript, Python
-- Front-End: React.js, Redux, Svelte
-- Back-End: Node.js, Express.js
-- APIs: REST, GraphQL
-- Databases: PostgreSQL, MongoDB
-- CSS: Vanilla, Sass, Bootstrap
+- Frontend: React.js, Redux, Svelte, Bootstrap, Sass
+- Backend: Node.js, Express.js
+- APIs: REST, WebSockets, GraphQL
+- Data storage and querying: PostgreSQL, MongoDB
 - Testing: Jest, React Testing Library, Cypress
 - Deployment: Docker, AWS
-- Version Control: Git
+- Version Control: Git/GitHub
 
 <br>
 
