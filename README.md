@@ -70,14 +70,16 @@
 
 ## ⛏ My Toolsets:
 
-- Languages: TypeScript, JavaScript, Python
-- Frontend: React, Redux, Svelte, Material UI, Tailwind CSS, Sass
-- Backend: Node.js, Express.js
-- APIs: REST, WebSockets, GraphQL
-- Data storage and querying: PostgreSQL, MongoDB
-- Testing: Jest, React Testing Library, Cypress
-- Deployment: Docker, AWS
-- Version Control: Git, GitHub
+| Category                      | Technologies                                          |
+| ----------------------------- | ----------------------------------------------------- |
+| **Languages**                 | TypeScript, JavaScript, Python                        |
+| **Frontend**                  | React, Redux, Svelte, Material UI, Tailwind CSS, Sass |
+| **Backend**                   | Node.js, Express.js                                   |
+| **APIs**                      | REST, WebSockets, GraphQL                             |
+| **Data storage and querying** | PostgreSQL, MongoDB                                   |
+| **Testing**                   | Jest, React Testing Library, Cypress                  |
+| **Deployment**                | Docker, AWS                                           |
+| **Version Control**           | Git, GitHub                                           |
 
 <br>
 
