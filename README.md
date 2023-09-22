@@ -78,7 +78,7 @@
 | **APIs**                      | REST, WebSockets, GraphQL                             |
 | **Data storage and querying** | PostgreSQL, MongoDB                                   |
 | **Testing**                   | Jest, React Testing Library, Cypress                  |
-| **Deployment**                | Docker, AWS                                           |
+| **Deployment**                | Docker, AWS, Vercel                                   |
 | **Version Control**           | Git, GitHub                                           |
 
 <br>
