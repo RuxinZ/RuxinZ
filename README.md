@@ -65,7 +65,8 @@
 
 </div>
 
-- I’m currently working on an open source project called **[Svelvet](https://github.com/open-source-labs/Svelvet)**. It's a Svelte component library for building interative node-based UIs and diagrams. Checkout our **[website](https://www.svelvet.io/)** and **[NPM download instructions](https://www.npmjs.com/package/svelvet)** .
+- Recently I worked on an open source project called **[Svelvet](https://github.com/open-source-labs/Svelvet)**. It's a Svelte component library for building interative node-based UIs and diagrams. Checkout our **[website](https://www.svelvet.io/)** and **[NPM installation instructions](https://www.npmjs.com/package/svelvet)** .
+- Currently, I'm practicing implementing React Hooks in my projects and learning Next.js (v13).
 - When I'm not coding, I enjoy hiking :mountain:, nature photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
 
 ## ⛏ My Toolsets:
