@@ -75,7 +75,8 @@
 | ----------------------------------- | ------------------------------------------------------------- |
 | **Languages**                       | TypeScript, JavaScript, Python                                |
 | **Frontend**                        | React (v18), Redux, Svelte, Next.js (v13), Tailwind CSS, Sass |
-| **Backend**                         | Node.js, Express.js, WebSockets, GraphQL                      |
+| **Backend**                         | Node.js, Express.js                                           |
+| **APIs**                            | RESTful APIs, WebSockets, GraphQL                             |
 | **Data storage and querying**       | PostgreSQL, MongoDB                                           |
 | **Testing**                         | Jest, Mocha, Vitest, Cypress, Playwright                      |
 | **Build Tools**                     | Webpack, Babel, Vite                                          |
