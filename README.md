@@ -78,6 +78,7 @@
 | **Backend**                         | Node.js, Express.js, WebSockets, GraphQL                      |
 | **Data storage and querying**       | PostgreSQL, MongoDB                                           |
 | **Testing**                         | Jest, Mocha, Vitest, Cypress, Playwright                      |
+| **Build Tools**                     | Webpack, Babel, Vite                                          |
 | **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), GitHub Actions, Vercel            |
 | **Version Control**                 | Git, GitHub                                                   |
 
