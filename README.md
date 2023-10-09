@@ -71,17 +71,18 @@
 
 ## ⛏ My Toolsets:
 
-| Category                            | Technologies                                                  |
-| ----------------------------------- | ------------------------------------------------------------- |
-| **Languages**                       | TypeScript, JavaScript, Python                                |
-| **Frontend**                        | React (v18), Redux, Svelte, Next.js (v13), Tailwind CSS, Sass |
-| **Backend**                         | Node.js, Express.js                                           |
-| **APIs**                            | RESTful APIs, WebSockets, GraphQL                             |
-| **Data storage and querying**       | PostgreSQL, MongoDB                                           |
-| **Testing**                         | Jest, Mocha, Vitest, Cypress, Playwright                      |
-| **Build Tools**                     | Webpack, Babel, Vite                                          |
-| **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), GitHub Actions, Vercel            |
-| **Version Control**                 | Git, GitHub                                                   |
+| Category                            | Technologies                                       |
+| ----------------------------------- | -------------------------------------------------- |
+| **Languages**                       | TypeScript, JavaScript, Python                     |
+| **Frontend**                        | React (v18), Redux, Svelte, Next.js (v13)          |
+| **UI frameworks**                   | Tailwind CSS, Bootstrap, Sass                      |
+| **Backend**                         | Node.js, Express.js, Django                        |
+| **APIs**                            | RESTful APIs, WebSockets, GraphQL                  |
+| **Data storage and querying**       | PostgreSQL, MongoDB                                |
+| **Testing**                         | Jest, Mocha, Vitest, Cypress, Playwright           |
+| **Build Tools**                     | Webpack, Babel, Vite                               |
+| **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), GitHub Actions, Vercel |
+| **Version Control**                 | Git, GitHub                                        |
 
 <br>
 
