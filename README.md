@@ -65,8 +65,7 @@
 
 </div>
 
-- Recently I worked on an open source project called **[Svelvet](https://github.com/open-source-labs/Svelvet)**. It's a Svelte component library for building interative node-based UIs and diagrams. Checkout our **[website](https://www.svelvet.io/)** and **[NPM installation instructions](https://www.npmjs.com/package/svelvet)** .
-- Currently, I'm practicing implementing React Hooks in my projects and learning Next.js (v13).
+- Currently, I'm employed as a Software Engineer at [Latitude](https://lumiere.is/), where I contribute to the development of an awesome video intelligence application called [Lumiere](https://lumiere.is/platform/). This application aids our clients in the media and technology sectors by enhancing their content, improving their advertising and brand messaging, growing their audiences, and delighting their users.
 - When I'm not coding, I enjoy hiking :mountain:, nature photography :camera_flash:, reading :books:, and learning languages :writing_hand:.
 
 ## ⛏ My Toolsets:
@@ -74,11 +73,11 @@
 | Category                            | Technologies                                       |
 | ----------------------------------- | -------------------------------------------------- |
 | **Languages**                       | TypeScript, JavaScript, Python                     |
-| **Frontend**                        | React (v18), Redux, Svelte, Next.js (v13)          |
+| **Frontend**                        | React, Redux, Svelte                               |
 | **UI frameworks**                   | Tailwind CSS, Bootstrap, Sass                      |
-| **Backend**                         | Node.js, Express.js, Django                        |
+| **Backend**                         | Node.js, Express.js, Next.js, SvelteKit, Django    |
 | **APIs**                            | RESTful APIs, WebSockets, GraphQL                  |
-| **Data storage and querying**       | PostgreSQL, MongoDB                                |
+| **Data storage and querying**       | SQL & NoSQL databases like PostgreSQL, MongoDB     |
 | **Testing**                         | Jest, Mocha, Vitest, Cypress, Playwright           |
 | **Build Tools**                     | Webpack, Babel, Vite                               |
 | **Containerization and Deployment** | Docker, AWS (EC2, S3, RDS), GitHub Actions, Vercel |
