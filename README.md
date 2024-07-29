@@ -1,6 +1,6 @@
 <h1>Welcome to my Profile. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 </h1>
-<h4><strong>I'm a full-stack software engineer with a passion passionate for developing scalable, performant, and reliable products.</strong></h4>
+<h4><strong>I'm a full-stack software engineer with a passion for developing scalable, performant, and reliable products.</strong></h4>
 
 - I work at [Latitude](https://lumiere.is/) on the [Lumiere](https://lumiere.is/platform/) dev team. Lumiere is a media platform that combines natural language processing, video data analytics, and AI insights to help clients enhance content and engage audiences.
 - I love learning new technologies related to software development as well as solving challenging technical problems. Currently, I'm learning [MIT 6.5840: Distributed Systems](https://pdos.csail.mit.edu/6.824/).
