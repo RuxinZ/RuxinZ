@@ -48,11 +48,12 @@
 [![My Skills](https://skillicons.dev/icons?i=npm&theme=light)]()
 [![My Skills](https://skillicons.dev/icons?i=figma&theme=light)]()
 
-<div>
+### Connect with me
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruxinzhengswe)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruxinzhengswe)
+[![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:ruxinzheng01@gmail.com)
 
-</div>
+<br>
 
 <div align="left">
   <img src="https://komarev.com/ghpvc/?username=ruxinz&label=Profile%20views&color=0e75b6&style=flat" alt="" />
